@@ -1,6 +1,6 @@
 # Pequeño proyecto con React
 
-Es buscador de Gif usando la API gratuita de https://giphy.com/
+Es buscador de Gif usando la API gratuita de https://giphy.com/ <br>
 Proyecto parte del curso de React de Fernando Herrera en Udemy.
 
 ##  Scripts
